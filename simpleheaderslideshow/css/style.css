@@ -1,0 +1,25 @@
+#header-slideshow {
+  height: 400px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+@media screen and (min-width: 50em) {
+  #header-slideshow {
+    height: 70vh;
+  }
+}
+#header-slideshow > div {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+}
+@media screen and (min-width: 50em) {
+  #header-slideshow > div  {
+    background-attachment: fixed;
+  }
+}
