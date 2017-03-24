@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MRGWeb Employees 1.0.0\n"
+"POT-Creation-Date: 2017-03-23 22:20+0100\n"
+"PO-Revision-Date: 2017-03-23 22:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mrgweb-employees.php:37 mrgweb-employees.php:39 mrgweb-employees.php:40
+msgid "Employees"
+msgstr "Medarbetare"
+
+#: mrgweb-employees.php:38
+msgid "Employee"
+msgstr "Medarbetare"
+
+#: mrgweb-employees.php:41 mrgweb-employees.php:43
+msgid "New Employee"
+msgstr "Ny medarbetare"
+
+#: mrgweb-employees.php:42
+msgid "Add new Employee"
+msgstr "Lägg till ny medarbetare"
+
+#: mrgweb-employees.php:44
+msgid "Edit Employee"
+msgstr "Redigera medarbetare"
+
+#: mrgweb-employees.php:45
+msgid "View Employee"
+msgstr "Visa medarbetare"
+
+#: mrgweb-employees.php:46
+msgid "All Employees"
+msgstr "Alla medarbetare"
+
+#: mrgweb-employees.php:47
+msgid "Search Employee"
+msgstr "Sök medarbetare"
+
+#: mrgweb-employees.php:48
+msgid "Parent Employee"
+msgstr "Överordnad medarbetare"
+
+#: mrgweb-employees.php:49
+msgid "No Employees"
+msgstr "Inga medarbetare"
+
+#: mrgweb-employees.php:50
+msgid "No Employees in trash"
+msgstr "Inga medarbetare i papperskorgen"
+
+#: mrgweb-employees.php:79
+msgid "Enter name here"
+msgstr "Ange namn här"
+
+#: mrgweb-employees.php:108 mrgweb-employees.php:118
+msgid "Organisations"
+msgstr "Organisationer"
+
+#: mrgweb-employees.php:109
+msgid "Organisation"
+msgstr "Organisation"
+
+#: mrgweb-employees.php:110
+msgid "Search Organisations"
+msgstr "Sök organisationer"
+
+#: mrgweb-employees.php:111
+msgid "All Organisations"
+msgstr "Alla organisationer"
+
+#: mrgweb-employees.php:112 mrgweb-employees.php:113
+msgid "Parent Organisation"
+msgstr "Överordnad organisation"
+
+#: mrgweb-employees.php:114
+msgid "Edit Organisation"
+msgstr "Redigera organisation"
+
+#: mrgweb-employees.php:115
+msgid "Update Organisation"
+msgstr "Uppdatera organisation"
+
+#: mrgweb-employees.php:116
+msgid "Add new Organisation"
+msgstr "Lägg till ny organisation"
+
+#: mrgweb-employees.php:117
+msgid "New Organisation"
+msgstr "Ny organisation"
+
+#: mrgweb-employees.php:135
+msgid "Information"
+msgstr "Information"
+
+#: mrgweb-employees.php:159
+msgid "Phone"
+msgstr "Telefon"
+
+#: mrgweb-employees.php:163
+msgid "Email"
+msgstr "Email"
+
+#: mrgweb-employees.php:167
+msgid "Title"
+msgstr "Titel"
+
+#: mrgweb-employees.php:171
+msgid "Department"
+msgstr "Avdelning"
+
+#: mrgweb-employees.php:218 mrgweb-employees.php:296
+msgid "Our Employees"
+msgstr "Våra Medarbetare"
+
+#: mrgweb-employees.php:225
+msgid "Choose which fields to display"
+msgstr "Välj vilka fält som ska visas"
+
+#: mrgweb-employees.php:230
+msgid "Display Name: "
+msgstr "Visa namn:"
+
+#: mrgweb-employees.php:236
+msgid "Display Email: "
+msgstr "Visa email:"
+
+#: mrgweb-employees.php:242
+msgid "Display Phone: "
+msgstr "Visa telefonnummer:"
+
+#: mrgweb-employees.php:248
+msgid "Display Organisation: "
+msgstr "Visa organisation:"
+
+#: mrgweb-employees.php:254
+msgid "Display Department: "
+msgstr "Visa avdelning:"
+
+#: mrgweb-employees.php:260
+msgid "Display Title: "
+msgstr "Visa titel:"
+
+#: mrgweb-employees.php:292
+msgid "Check the ones you wish to display"
+msgstr "Markera de fält som du vill visa"
+
+#: mrgweb-employees.php:297
+msgid "Configure which fields that are displayed"
+msgstr "Anpassa vilka fält som visas"
